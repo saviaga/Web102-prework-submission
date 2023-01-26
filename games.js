@@ -90,6 +90,7 @@ const games = ` [
   }
 ]
 `
+
 const template = `
 {
 "name": "",
@@ -100,5 +101,6 @@ const template = `
 "img": ""
 },
 `
+
 
 export default games;
